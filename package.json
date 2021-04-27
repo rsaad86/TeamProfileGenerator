@@ -1,0 +1,30 @@
+{
+  "name": "teamprofilegenerator",
+  "version": "1.0.0",
+  "description": "Team Profile Generator application",
+  "main": "index.js",
+  "scripts": {
+    "test": "This is a test command"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rsaad86/TeamProfileGenerator.git"
+  },
+  "keywords": [
+    "Team",
+    "Profile",
+    "Generator",
+    "Team",
+    "Profile"
+  ],
+  "author": "Rani Saad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rsaad86/TeamProfileGenerator/issues"
+  },
+  "homepage": "https://github.com/rsaad86/TeamProfileGenerator#readme",
+  "dependencies": {
+    "inquirer": "^8.0.0",
+    "jest": "^26.6.3"
+  }
+}
