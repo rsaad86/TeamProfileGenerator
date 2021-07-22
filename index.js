@@ -89,7 +89,7 @@ function init() {
             if (internSchool) {
               return true;
             }
-            console.log("Please enter the intern's school name!");
+            console.log("Please enter the intern's school name");
             return false;
           },
         });
