@@ -6,7 +6,7 @@ To begin, open a new terminal and type in "npm start". Once the application star
 
 Below are some images of how it works and how it should look like:
 
-![image1]()
+![image1](https://raw.githubusercontent.com/rsaad86/TeamProfileGenerator/main/screencapture-file-C-Users-rsaad-Desktop-projects-TeamProfileGenerator-crew-html-2021-07-21-22_09_14.png)
 ![image2]()
 
 Author: Rani Saad
